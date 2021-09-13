@@ -3,7 +3,7 @@ A repository of sample GCP logs for reference, including:
 
 - Organizational Policy Violation for Service Account Key Creation
 - Organizational Policy Violation for Service Account Creation
-- SSH Key Instance Metedata Changes
+- SSH Key Instance Metadata Changes
 - SSH Key Project Metadata Changes
 - Data Access for GCS Bucket List
 - Data Access for GCS Object Get
@@ -12,5 +12,5 @@ A repository of sample GCP logs for reference, including:
 - Security Command Center Bad Domain
 - Security Command Center Leaked Credentials
 - Security Command Center Self Account Investigation
-- Security Command Center Crytomining Detection
+- Security Command Center Crypto Mining Detection
 - Security Command Center Outgoing DDOS
