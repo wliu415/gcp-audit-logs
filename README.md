@@ -14,3 +14,4 @@ A repository of sample GCP logs for reference, including:
 - Security Command Center Self Account Investigation
 - Security Command Center Crypto Mining Detection
 - Security Command Center Outgoing DDOS
+- OS Logging Agent Log from Syslog
